@@ -1,9 +1,9 @@
+### i would tell you a UDP joke, but you might not get it. 
 ![Photos](https://lester.page/assets/2000/88x31/pumpkin/lester.page_camera.gif)
 ![VSCode](https://lester.page/assets/2000/88x31/pumpkin/madewithvscode.gif)
 ![Eyes](https://lester.page/assets/2000/88x31/pumpkin/bestviewedwitheyes.gif)
 
-## Tech Stack
-
+### my tech stack
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
