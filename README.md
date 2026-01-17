@@ -1,5 +1,8 @@
-![VSCode](https://lester.page/assets/2000/88x31/std/madewithvscode.gif)
-![Eyes](https://lester.page/assets/2000/88x31/std/bestviewedwitheyes.gif)
+## 𝖍𝖊𝖑𝖑𝖔! 
+
+![Photos](https://lester.page/assets/2000/88x31/pumpkin/lester.page_camera.gif)
+![VSCode](https://lester.page/assets/2000/88x31/pumpkin/madewithvscode.gif)
+![Eyes](https://lester.page/assets/2000/88x31/pumpkin/bestviewedwitheyes.gif)
 
 ## Tech Stack
 
