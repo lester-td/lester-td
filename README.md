@@ -1,9 +1,11 @@
-## 𝖍𝖊𝖑𝖑𝖔! 
+## 𝔥𝔢𝔩𝔩𝔬! 😊
 
 ![Photos](https://lester.page/assets/2000/88x31/pumpkin/lester.page_camera.gif)
 ![VSCode](https://lester.page/assets/2000/88x31/pumpkin/madewithvscode.gif)
 ![Eyes](https://lester.page/assets/2000/88x31/pumpkin/bestviewedwitheyes.gif)
 
+this page is a work in progress
+<!---
 ## Tech Stack
 
 ### Development
@@ -43,3 +45,5 @@
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+-->
+
